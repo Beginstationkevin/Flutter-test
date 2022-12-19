@@ -1,2 +1,1 @@
-# Flutter-test
- Flutter test application
+Flutter test application
